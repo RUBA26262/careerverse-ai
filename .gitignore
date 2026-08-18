@@ -23,4 +23,7 @@ build/
 
 # Logs
 *.log
-backend/*.db
+# Database files
+*.db
+*.sqlite
+*.sqlite3
