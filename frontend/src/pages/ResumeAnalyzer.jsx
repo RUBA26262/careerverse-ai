@@ -1538,4 +1538,4 @@ export default function ResumeAnalyzer() {
 
     </main>
   )
-}
+} 

@@ -73,4 +73,4 @@ def health():
     return {
         "status": "ok",
         "service": "CareerVerse AI API"
-    }
+    } 
